@@ -3,7 +3,6 @@ interface Grupo {
     año: number;
     activo: boolean;
     genero: string;
-
 }
 const grupoA : Grupo = {
 
@@ -12,14 +11,12 @@ const grupoA : Grupo = {
     activo: true,
     genero: "🎵 Pop Rock",
 }
-
 const grupoB : Grupo = {
 
     nombre: "Queen",
     año: 1970,
     activo: false,
     genero: "🎸 Rock",
-
 }
 const grupoC : Grupo = {
 
