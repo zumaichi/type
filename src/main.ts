@@ -39,4 +39,8 @@ const grupoE : Grupo = {
     activo: true,
     genero: "🎸 Rock",
 }
-console.log(grupoA , grupoB, grupoC, grupoD, grupoE)
+console.log(grupoA)
+console.log(grupoB)
+console.log(grupoC)
+console.log(grupoD)
+console.log(grupoE)
